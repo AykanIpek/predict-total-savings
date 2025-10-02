@@ -59,7 +59,7 @@ This project applies machine learning to predict **total potential savings for c
 
 3. Run Jupyter Notebook or Python scripts:
    ```bash
-   jupyter notebook notebooks/savings_prediction.ipynb
+   jupyter notebook notebooks/Predicting  Potential Savings Total.ipynb
    ```
 
 ---
