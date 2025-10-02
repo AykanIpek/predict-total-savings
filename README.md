@@ -81,4 +81,3 @@ This project applies machine learning to predict **total potential savings for c
 ---
 
 📧 **Author**: AykanIpek  
-🎓 *Istanbul Technical University*
