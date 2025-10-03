@@ -48,7 +48,7 @@ This project applies machine learning to predict **total potential savings for c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/predict-total-savings.git
+   git clone https://github.com/AykanIpek/predict-total-savings.git
    cd predict-total-savings
    ```
 
