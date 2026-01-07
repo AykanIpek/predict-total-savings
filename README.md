@@ -8,11 +8,10 @@ This project applies machine learning to predict **total potential savings for c
 
 ```
 📁 predict-total-savings
-│── data/                # Customer dataset
-│── notebooks/           # Jupyter notebooks for EDA and modeling
-│── src/                 # Python scripts for preprocessing & modeling
-│── results/             # Model outputs, plots, and reports
-│── README.md            # Project documentation
+│── data.csv/                                           # Customer dataset
+│── Predicting_Potential_Savings_Total.ipynb/       # Jupyter notebooks for EDA and modeling
+│── requirements.txt/                               # Libraries
+│── README.md                                       # Project documentation
 ```
 
 ---
